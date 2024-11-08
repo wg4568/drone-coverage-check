@@ -1,0 +1,8 @@
+[package]
+name = "coverage-check"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+kamadak-exif = "0.6.1"
+plotly = "0.10.0"
